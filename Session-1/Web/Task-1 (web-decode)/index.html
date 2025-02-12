@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="script.js"></script>
+    <title>NetVenture</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #0a0a2a;
+            color: #e0e0ff;
+        }
+        header {
+            background-color: #1a1a4a;
+            padding: 1rem;
+        }
+        nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .logo {
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: #7f7fff;
+        }
+        .nav-links {
+            list-style: none;
+            display: flex;
+            gap: 1rem;
+        }
+        .nav-links a {
+            color: #e0e0ff;
+            text-decoration: none;
+        }
+        main {
+            padding: 2rem;
+        }
+        .hero {
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+        .hero h1 {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+        }
+        .cta-button {
+            display: inline-block;
+            background-color: #7f7fff;
+            color: #0a0a2a;
+            padding: 0.5rem 1rem;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .features {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 2rem;
+        }
+        .feature {
+            background-color: #1a1a4a;
+            padding: 1rem;
+            border-radius: 10px;
+            text-align: center;
+        }
+        footer {
+            background-color: #1a1a4a;
+            text-align: center;
+            padding: 1rem;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <nav>
+            <div class="logo">NetVenture</div>
+            <ul class="nav-links">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#missions">About</a></li>
+                <li><a href="#gallery">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="hero">
+            <h1>Capture The Flag</h1>
+            <p>Search for the flag in this website.</p>
+        </section>
+        <section class="features">
+            <div class="feature">
+                <h2>Web Exploitation</h2>
+                <p>Find and exploit vulnerabilities in web applications</p>
+            </div>
+            <div class="feature">
+                <h2>Cryptography</h2>
+                <p>Decrypt messages and solve cryptographic challenges</p>
+            </div>
+            <div class="feature">
+                <h2>Reverse Engineering</h2>
+                <p>Analyze binaries and reverse engineer software</p>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; netVenture 2025 . All rights reserved.</p>
+    </footer>
+</body>
+</html>
