@@ -42,3 +42,5 @@ Sessions - 2
 Endianess -> MAGNUS{ne6tw0r7_end3a5e9s}
 
 OSINT -> MAGNUS{Os1n7_c@ll4n7e}
+
+Web -> MAGNUS{i_4py_wi3h_5y_l4t5le_eye}
