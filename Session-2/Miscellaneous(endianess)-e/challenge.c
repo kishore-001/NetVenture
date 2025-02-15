@@ -64,7 +64,6 @@ int main() {
 
     // Convert to hex
     string_to_hex(original, hex);
-    printf("Hex Representation: %s\n", hex);
 
     // Convert to Little and Big Endian hex
     convert_to_little_endian(hex, little_endian_hex);

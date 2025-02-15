@@ -1,0 +1,36 @@
+Sessions - 1
+
+Miscellaneous
+
+Overflow -> MAGNUS{i2t3ge7_ov9r6l0w}
+
+OSINT 
+
+Post -> MAGNUS{06:02:2006}
+
+steganography
+
+hidden files  -> MAGNUS{s2en0grap8y_hi4d3n}
+
+split flag -> MAGNUS{PNG_St3g0_&_M3tadata}
+
+Web 
+
+command execution -> MAGNUS{c0mm@nd_ex3cut10n}
+
+JWT tokens -> MAGNUS{J9T_to3e5s}
+
+Reverse Engineering 
+
+static analysis -> MAGNUS{Rev_Eng_Asm_Challenge}
+
+
+we stilll need three challenges
+
+
+
+Sessions - 2
+
+Endianess -> MAGNUS{ne6tw0r7_end3a5e9s}
+
+OSINT -> MAGNUS{Os1n7_c@ll4n7e}
