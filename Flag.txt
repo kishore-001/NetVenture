@@ -2,31 +2,39 @@ Sessions - 1
 
 Miscellaneous
 
-Overflow -> MAGNUS{i2t3ge7_ov9r6l0w}
+1 Overflow -> MAGNUS{i2t3ge7_ov9r6l0w}
+
+2 Low level Logic -> MAGNUS{}
 
 OSINT 
 
-Post -> MAGNUS{06:02:2006}
+3 Post -> MAGNUS{06:02:2006}
 
 steganography
 
-hidden files  -> MAGNUS{s2en0grap8y_hi4d3n}
+4 4hidden files  -> MAGNUS{s2en0grap8y_hi4d3n}
 
-split flag -> MAGNUS{PNG_St3g0_&_M3tadata}
+5 split flag -> MAGNUS{PNG_St3g0_&_M3tadata}
 
 Web 
 
-command execution -> MAGNUS{c0mm@nd_ex3cut10n}
+6 command execution -> MAGNUS{c0mm@nd_ex3cut10n}
 
-JWT tokens -> MAGNUS{J9T_to3e5s}
+7 JWT tokens -> MAGNUS{J9T_to3e5s}
 
 Reverse Engineering 
 
-static analysis -> MAGNUS{Rev_Eng_Asm_Challenge}
+8 static analysis -> MAGNUS{Rev_Eng_Asm_Challenge}
+
+Crypto
+
+9 Diffie-Hellman -> MAGNUS{5026}
+
+10 Pattern_analysis -> magnus{manual_guessing_makes_a_fun_puzzle}
 
 
-we stilll need three challenges
 
+-------------------------------------------------------------------------------------------------------------------------------------
 
 
 Sessions - 2

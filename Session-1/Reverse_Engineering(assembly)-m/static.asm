@@ -137,9 +137,9 @@ exit:
 section .data
 prompt db "Enter password: "    ; New prompt message
 prompt_len equ $ - prompt      ; Length of prompt
-correct_password db "movAL", 0
 msg_fail db "Incorrect password!", 10
 fail_len equ $ - msg_fail
+correct_password db "__bss_start!", 0
 flag_len equ 30                ; Length of complete flag + newline
 
 section .bss
