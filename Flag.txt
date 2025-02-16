@@ -39,12 +39,22 @@ Crypto
 
 Sessions - 2
 
-Endianess -> MAGNUS{ne6tw0r7_end3a5e9s}
+1 Endianess -> MAGNUS{ne6tw0r7_end3a5e9s}
 
-OSINT -> MAGNUS{Os1n7_c@ll4n7e}
+2 OSINT -> MAGNUS{Os1n7_c@ll4n7e}
 
-Web -> MAGNUS{i_4py_wi3h_5y_l4t5le_eye}
+3 Web -> MAGNUS{i_4py_wi3h_5y_l4t5le_eye}
 
-Forensics -> MAGNUS{f3r4n2sc_is_b4r39g}
+4 Forensics(zip_file and pdf files) -> MAGNUS{f3r4n2sc_is_b4r39g}
 
-Steganography -> 
+5 Steganography(encrypted image qr) -> MAGNUS{st9s_2nd_3ncrypt10n_1s_4lw4ys_b3tt3r}
+
+6 Forensics (image password craking)-> MAGNUS{p2s4wo4d_cr3c4ki7g_a6d_f0r5ns7cs}
+
+7 Reverse_engineering (shifting the flag) -> MAGNUS{0x0r_1s_4m4z1ng}
+
+8 Steganography (encoding)-> MAGNUS{c2nv4rsi5n_st4g6o7ra8hy}
+
+9 Miscellaneous (pcap) -> MAGNUS{pc0p_fi9e_is_s4me4hin3s_e4se}
+
+10 Crypto (keyed_cypher) -> MAGNUS{k2ye3d_c2a8r_c1ph6r}
